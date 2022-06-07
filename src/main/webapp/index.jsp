@@ -5,8 +5,6 @@
 <body style="text-align: center">
 <h1>Transportation</h1>
 <img src="boxfuse.png">
-
-    
 <h2>You have successfully transported</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
